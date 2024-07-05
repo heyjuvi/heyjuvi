@@ -16,3 +16,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=heyjuvi&show_icons=true&count_private=true&theme=jolly"><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjuvi&langs_count=5&show_icons=true&count_private=true&include_all_commits=true&theme=jolly">
 </div>
+
+<br><br>
+
+<div align="center">
+    <img src="cat.gif">
+</div>
